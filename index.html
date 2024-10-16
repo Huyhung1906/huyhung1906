@@ -62,7 +62,12 @@
         function createNewButton() {
             // Tạo một button mới
             let newButton = document.createElement('button');
-            newButton.innerText = 'Không yêu';
+            const texts = ['Không yêu', 'Có chết cũng không yêu', 'Never', 'Không thể nào', 'Nằm mơ đi', 'Chờ đợi', 'Không biết'];
+        
+        // Chọn ngẫu nhiên một văn bản từ mảng
+            const randomText = texts[Math.floor(Math.random() * texts.length)];
+
+            newButton.innerText = randomText;
 
             // Đặt vị trí ngẫu nhiên cho button mới
             let randomX = Math.random() * (window.innerWidth - 100); // Giới hạn chiều rộng
