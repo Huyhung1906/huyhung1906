@@ -22,7 +22,7 @@
 
 <!-- Fancy avatar with gradient ring using SVG trick -->
 <p>
-  <img src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/main/avatar.png"
+  <img src="https://raw.githubusercontent.com/huyhung1906/huyhung1906/main/avatar.png"
        width="150"
        style="border-radius:50%"
        alt="avatar" />
