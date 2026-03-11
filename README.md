@@ -13,7 +13,7 @@
 <br/>
 
 <div style="position:relative; display:inline-block;">
-  <img src="https://avatars.githubusercontent.com/u/YOUR_GITHUB_ID" 
+  <img src="https://avatars.githubusercontent.com/u/huyhung1906" 
        width="150" 
        height="150"
        style="border-radius: 50%; border: 5px solid transparent; background: linear-gradient(135deg, #667eea 0%, #764ba2 50%, #f093fb 100%);"
