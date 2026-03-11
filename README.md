@@ -12,16 +12,9 @@
 
 <br/>
 
-<div style="display:inline-block;
-            padding:5px;
-            border-radius:50%;
-            background: linear-gradient(135deg,#667eea,#764ba2,#f093fb);">
-
-  <img src="https://avatars.githubusercontent.com/u/160611623?v=4"
-       width="150"
-       height="150"
-       style="border-radius:50%; display:block;" />
-       
+<p align="center">
+  <img src="https://avatars.githubusercontent.com/u/160611623?v=4" width="150px" style="border-radius:50%;">
+</p>
 </div>
 <!-- Fancy avatar with gradient ring using SVG trick -->
 <p>
